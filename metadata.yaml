@@ -1,0 +1,38 @@
+_repo: Bygones-Worth-Remembering-Vol.-2--of-2-_36796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holyoake, George Jacob
+    alias: Holyoake, G. J. (George Jacob)
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '38479'
+    url: http://www.gutenberg.org/2009/agents/38479
+    wikipedia: http://en.wikipedia.org/wiki/George_Jacob_Holyoake
+description: ''
+gutenberg_issued: '2011-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Holyoake, George Jacob, 1817-1906'
+- !lcsh 'Working class -- Great Britain -- Biography'
+- !lcsh 'Social reformers -- Great Britain -- Biography'
+tableOfContents: Conversations with Mr. Gladstone -- Herbert Spencer, the thinker
+  -- Singular career of Mr. Disraeli -- Characteristics of Joseph Cowen -- The peril
+  of scruples -- Taking sides -- Things which went as they would -- Story of the Lambeth
+  palace grounds -- Social wonders across the water -- The Established Church at sea
+  -- Adventures in the street -- Limping thrift -- Mistrust of moderation -- Penal
+  Christianity -- Two Sundays -- Byways of liberty -- Lawyers' license -- Christian
+  days -- New convictions which came unsought -- Diffuculty of knowing men -- Ideas
+  for the young -- Experiences on the warpath -- Looking backwards.
+title: Bygones Worth Remembering, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/36796
